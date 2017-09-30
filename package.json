@@ -1,0 +1,17 @@
+{
+  "name": "elasticsearch-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "elasticsearch": "^13.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Aditya Agarwal <adityaa803@gmail.com> (http://adi.surge.sh/)",
+  "license": "ISC"
+}
